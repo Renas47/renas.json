@@ -1,2 +1,1 @@
-# renas.json
-mavi.tikim.json
+1_renas_
